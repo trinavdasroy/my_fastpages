@@ -1,1 +1,1 @@
-Sitemap: https://trinavdasroy.github.io/my_fastpages/sitemap.xml
+Sitemap: https://trinavdasroy.github.io/sitemap.xml
