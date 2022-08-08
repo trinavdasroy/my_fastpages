@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "My 3rd Lego Vehicle",
+            "content": ". toc: true layout: post description: A moving Lego car categories: [LEGO] title: View yet another sort of lego car rolling happily! hide: false comments: true image: images/Image-01.png — . I made yet another LEGO vechicle . A nice looking LEGO vechicle. .",
+            "url": "https://trinavdasroy.github.io/my_fastpages/2022/08/08/My-3rd-LEGO-vehicle.html",
+            "relUrl": "/2022/08/08/My-3rd-LEGO-vehicle.html",
+            "date": " • Aug 8, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "View another LEGO car rolling happily!",
             "content": "I made this LEGO car . I hope you like my second lego car! .",
             "url": "https://trinavdasroy.github.io/my_fastpages/lego/2022/08/07/My-Second-Lego-Car.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "View a LEGO car rolling happily!",
             "content": "I made this LEGO car . A nice looking LEGO car .",
             "url": "https://trinavdasroy.github.io/my_fastpages/lego/2022/07/26/legoCar.html",
