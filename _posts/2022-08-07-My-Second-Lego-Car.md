@@ -14,5 +14,5 @@ image: images/IMG-9364.png
 I hope you like my second lego car!
 
 <video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/109825703/183327190-cfd5de88-7699-4862-80a2-6d5eb275f220.MOV" type="video/MOV">
+  <source src="https://user-images.githubusercontent.com/109825703/183330079-68f652e4-4bc9-4131-8cf0-371d09d36f2e.mp4" type="video/mp4">
 </video>
